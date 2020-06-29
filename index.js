@@ -1,6 +1,16 @@
 // Code your solutions in this file
 writeCards(["Ada", "Brendan", "Ali"], "birthday");
 
+const cards = 
+
+
+
+
+
+
+
+
+
 const gifts = ["teddy bear", "drone", "doll"];
  
 function wrapGifts(gifts) {
